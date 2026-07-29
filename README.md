@@ -1,102 +1,176 @@
-# Hi there, I'm Sami Farhat 👋
+<div align="center">
 
-### Full-Stack & Mobile Developer | Computer Science Student
+# Sami Farhat
 
-I'm a Computer Science student from Lebanon focused on building full-stack web and mobile applications using modern technologies such as **ASP.NET Core**, **React**, **React Native**, **PostgreSQL**, **Supabase**, and **Firebase**.
+### Full-Stack & Mobile Developer
 
-I enjoy building real-world applications that combine clean user interfaces, secure backend APIs, databases, authentication, and practical automation.
+Building practical web and mobile applications with  
+**React**, **React Native**, **ASP.NET Core**, **Firebase**, **Supabase**, and **PostgreSQL**.
+
+<br />
+
+<a href="mailto:sami.farhat.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sami-farhat-46692641a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/SF-47">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About
 
-- 🎓 Computer Science student at the Islamic University of Lebanon
-- 💻 Interested in full-stack web development and mobile app development
-- 🧠 Building projects with ASP.NET Core, React, React Native, PostgreSQL, Firebase, and Supabase
-- 🤖 Interested in AI integrations, REST APIs, automation workflows, and scalable systems
-- 📍 Based in Beirut, Lebanon
+I am a Computer Science student from Lebanon focused on full-stack web and mobile development.
+
+I build applications that combine clean user interfaces, secure backend APIs, authentication, databases, admin dashboards, automation workflows, and real-world deployment.
+
+My current focus is improving as a junior developer by building production-style projects, strengthening backend development, and writing cleaner, more maintainable code.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-149ECA?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### Backend, Database & Cloud
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111827?style=for-the-badge&logo=dotnet)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
-![Jira](https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira)
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+### Automation & AI
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-0F172A?style=for-the-badge" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔎 Findly — Smart Lost & Found Platform
 
-An AI-assisted lost-and-found platform for university campuses.
+AI-assisted lost-and-found platform designed for university campuses.
 
-**Tech Stack:** ASP.NET Core, React.js, React Native, PostgreSQL, Supabase, JWT, n8n, Gemini AI
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-149ECA?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
 
-- Built a full-stack system with backend APIs, admin panel, and mobile app
-- Implemented JWT authentication and role-based access control
-- Integrated n8n and Gemini AI for intelligent lost/found item matching
-- Used PostgreSQL and Supabase for database, storage, and realtime features
-- Developed admin workflows for managing users, reports, matches, and verification
+- Developed a full-stack platform with backend APIs, a React admin dashboard, and a React Native mobile application.
+- Implemented JWT authentication and role-based access control for Owner, University Admin, and Student users.
+- Integrated n8n and Gemini AI to automate lost/found item matching.
+- Built matching logic using university filtering, category matching, date-window checks, and duplicate prevention.
+- Created workflows for student verification, report management, match review, notifications, and match-based chat.
 
 ---
 
 ### 🌯 Shawarma Story QR Menu
 
-A live QR restaurant menu web app for Shawarma Story.
+Live QR restaurant menu web app built for a real business.
 
-**Tech Stack:** React, Vite, Tailwind CSS, Firebase Firestore, Firebase Auth, Firebase Hosting, Cloudflare
+<p>
+  <img src="https://img.shields.io/badge/React.js-149ECA?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
 
-- Built a mobile-first QR menu for restaurant customers
-- Added bilingual English/Arabic support with RTL layout
-- Implemented cart ordering with WhatsApp checkout messages
-- Built a protected admin panel for menu item management
-- Deployed the project with Firebase Hosting and a custom Cloudflare domain
+- Built a mobile-first QR menu optimized for restaurant customers scanning from their phones.
+- Implemented bilingual English/Arabic support with RTL layout handling.
+- Added cart ordering, quantity controls, customer notes, and formatted WhatsApp checkout messages.
+- Built a protected admin panel for managing menu items, prices, categories, and availability.
+- Deployed the project using Firebase Hosting and connected a custom Cloudflare-managed domain.
 
-🔗 Live Website: [shawarmastory.com](https://shawarmastory.com)
-
----
-
-## 📌 Current Focus
-
-- Building full-stack web applications with React, ASP.NET Core, and PostgreSQL
-- Improving mobile development skills with React Native and Expo
-- Learning TypeScript to write cleaner and safer frontend code
-- Creating real-world projects with Firebase, Supabase, and REST APIs
+**Live:** [shawarmastory.com](https://shawarmastory.com)
 
 ---
 
-## 📫 Contact Me
+## 🎓 Academic Exposure
 
-- 📧 Email: **sami.farhat.dev@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/sami-farhat-46692641a](https://www.linkedin.com/in/sami-farhat-46692641a)
-- 💻 GitHub: [github.com/SF-47](https://github.com/SF-47)
+Through university coursework, I also worked with:
+
+- Flutter mobile development
+- Java mobile development
+- Java desktop applications
+- C# Windows Forms applications
 
 ---
 
-⭐ Always learning, building, and improving as a full-stack and mobile developer.
+## 📫 Contact
+
+<p>
+  <a href="mailto:sami.farhat.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sami.farhat.dev%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/sami-farhat-46692641a">
+    <img src="https://img.shields.io/badge/LinkedIn-Sami_Farhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/SF-47">
+    <img src="https://img.shields.io/badge/GitHub-SF--47-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**Open to junior full-stack, frontend, backend, and mobile development opportunities.**
+
+</div>
