@@ -82,11 +82,12 @@ A live QR restaurant menu web app for Shawarma Story.
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Focus
 
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SF-47&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SF-47&layout=compact&theme=github_dark&hide_border=true)
+- Building full-stack web applications with React, ASP.NET Core, and PostgreSQL
+- Improving mobile development skills with React Native and Expo
+- Learning TypeScript to write cleaner and safer frontend code
+- Creating real-world projects with Firebase, Supabase, and REST APIs
 
 ---
 
