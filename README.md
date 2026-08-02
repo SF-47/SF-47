@@ -18,6 +18,9 @@ Building practical web and mobile applications with
 <a href="https://github.com/SF-47">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://sami-farhat.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
@@ -25,11 +28,11 @@ Building practical web and mobile applications with
 
 ## 🧑‍💻 About
 
-I am a Computer Science student from Lebanon focused on full-stack web and mobile development.
+I am a Computer Science graduate from Lebanon focused on full-stack web and mobile development.
 
 I build applications that combine clean user interfaces, secure backend APIs, authentication, databases, admin dashboards, automation workflows, and real-world deployment.
 
-My current focus is improving as a junior developer by building production-style projects, strengthening backend development, and writing cleaner, more maintainable code.
+My current focus is strengthening my backend and full-stack development skills while building cleaner, scalable, and maintainable applications.
 
 ---
 
@@ -43,6 +46,7 @@ My current focus is improving as a junior developer by building production-style
   <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### Frontend & Mobile
