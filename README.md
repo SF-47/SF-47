@@ -2,7 +2,7 @@
 
 # Sami Farhat
 
-### Full-Stack & Mobile Developer
+### Junior Software Engineer | Full-Stack & Mobile Development
 
 Building practical web and mobile applications with  
 **React**, **React Native**, **ASP.NET Core**, **Firebase**, **Supabase**, and **PostgreSQL**.
